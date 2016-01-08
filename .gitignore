@@ -1,0 +1,6 @@
+bin/
+*.plist
+obj/
+*.pyc
+.ycm_extra_conf.py
+
